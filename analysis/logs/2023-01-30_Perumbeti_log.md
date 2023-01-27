@@ -15,5 +15,5 @@ This last week we focused on command line, git, markdown, log and readme files, 
 
 ## Additional thought
 *Write anything that you think would be important for YOU later on.*
-2023-01-24: This sentence is to test humosaic github repository clone, add, commit, and push
+2023-01-24: This sentence is to test humosaic github repository clone, add, commit, and push.
 I am also thinking about FOSS mention of generating code library references in R and Python from pipeline code.
