@@ -14,5 +14,5 @@ This last week we focused on command line, git, markdown, log and readme files, 
 *Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here.* I need to better understand how others document in their github for reproducible science, by studying Dr. Chism's github template files. 
 
 ## Additional thought
-Write anything that you think would be important for YOU later on.
+*Write anything that you think would be important for YOU later on.*
 2023-01-24: This sentence is to test humosaic github repository clone, add, commit, and push
