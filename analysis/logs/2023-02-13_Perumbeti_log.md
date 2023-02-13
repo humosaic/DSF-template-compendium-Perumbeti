@@ -5,7 +5,7 @@
 
 ### Rose:
 **The highlight from the previous FOSS session, such as something you found particularly interesting. This could also be something you're excited to implement now.**  
-*This week in   FOSS we learned about project and data management.  We discussed tools for data management including DMPTool.org, openproject.org, and Zenhub/Github Issues.  We also learned FAIR: Findable, Accessible, Interoperable, and Reusable; Along with CARE: Collective benefit, Authority to control, Responsibility, Ethics.
+*This week in   FOSS we learned about project and data management.  We discussed tools for data management including (ds-wizard.org & DMPTool.org: data management plan), (openproject.org, and Zenhub/Github Issues: project management software).  We also learned FAIR: Findable, Accessible, Interoperable, and Reusable; Along with CARE: Collective benefit, Authority to control, Responsibility, Ethics.
 
 ### Bud: 
 **Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your research in the future.**  
