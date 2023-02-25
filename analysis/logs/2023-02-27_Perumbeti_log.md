@@ -13,7 +13,7 @@
 
 ### Thorn: 
 **Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here.**  
-*I would like to see if you can nest multiple related repositories in a single folder.  It appears this is possible locally, but Github requires each repo to be independent.  I still haven't figured out how to push changes from CL in local git without generating a token.  I have been able to create R project, save it in a github repo local folder, and push to Github, but not sure how to synch Github directly from R studio project.*
+*I would like to see if you can nest multiple related repositories in a single folder.  It appears this is possible locally, but Github requires each repo to be independent.  I still haven't figured out how to push changes from CL in local git without generating a token.  I have been able to create R project, save it in a git repo local folder, and push to Github, but not sure how to synch Github directly from R studio project.*
 
 ## Additional thought
 **Write anything that you think would be important for YOU later on.**  
