@@ -9,7 +9,7 @@
 
 ### Bud: 
 **Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your research in the future.**  
-*I synched some repositories from command line.  I wrote some R code for the GEO pipeline in a RMD file.*
+*I synched some repositories from command line.  I wrote some R code for the GEO pipeline in a RMD file.  This is a test for VScode*
 
 ### Thorn: 
 **Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here.**  
